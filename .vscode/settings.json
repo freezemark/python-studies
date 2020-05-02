@@ -20,5 +20,5 @@
   "peacock.color": "#832561",
   "python.linting.flake8Enabled": true,
   "python.linting.enabled": true,
-  "python.pythonPath": "/Users/stanislav.tugovikov/bin/python"
+  "python.pythonPath": "/usr/bin/python"
 }
