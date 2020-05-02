@@ -759,8 +759,8 @@ t = turtle.Pen()
 turtle.bgcolor('black')
 for x in range(len(colors)):
     t.pencolor(colors[x])
-    t.width(x/100+1)
+    t.width(x/90)
 
-    t.forward(x)
+    t.forward(x/92)
+    t.left(360 / 92)
 
-    t.left(360 / 12 + 1)
