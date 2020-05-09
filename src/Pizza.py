@@ -6,5 +6,5 @@ tax_cost = cost * tax
 
 print("\nОбщая стоимость всех пицц: ₽", cost + tax_cost)
 print(" ... в том числе ₽", cost, " за пиццы")
-print(" ... и ₽", tax_cost, " налог")
+print(" ... и ", tax_cost, " налог")
 
